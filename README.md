@@ -12,7 +12,7 @@ It is written in React Native.
 -coming soon-
 
 ### UI Design :) 
-####This design might change
+This design might change
 
 ![Signup](https://github.com/blackrose9/overnight-pmt/blob/dev/design/signUp.png)
 ![Signin](https://github.com/blackrose9/overnight-pmt/blob/dev/design/signIn.png)
